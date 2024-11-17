@@ -21,6 +21,7 @@ e) Progress Tracking
   Status updates for each entity
   Clear process visualization
 f) AI Integration (GROQ)
+  Handle MUltiple prompts
   Integration with GROQ's LLM
   Structured prompt formatting
   Error handling with retries
